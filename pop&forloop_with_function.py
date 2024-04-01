@@ -1,10 +1,9 @@
 cars = ["Ford", "Volvo", "BMW"]
 
-cars.pop(1)
+cars.pop(1) #this will remove volvo
 
 def car():
     for i in cars:
         print(i)
 
-print("now car is ", end="")
 car()
