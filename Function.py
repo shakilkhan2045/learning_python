@@ -1,5 +1,5 @@
 def my_function(fname):
-  print(fname + " learning python")
+  print(fname + " is learning python")
 
 my_function("shakil")
 my_function("Hasan")
